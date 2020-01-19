@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 # A simple web-based library management system and a covering report
 
@@ -39,3 +40,6 @@ Desirable requirements:
 
 
 
+=======
+# SimpleLibrayMS
+>>>>>>> 145062b9c9a62555008650cc7fe75af9fcadd470
